@@ -1,0 +1,502 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "certificates": "Certificates",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "badge": "Engineering & Construction Company",
+    "title": "TIM STROY",
+    "tagline": "World-Class Engineering Solutions",
+    "description": "Design and installation of engineering systems for industrial facilities, airports and residential complexes in Kazakhstan and CIS.",
+    "experience": "Over 10 years of successful partnership with international corporations. More than 50 major projects completed.",
+    "scroll": "Learn More",
+    "cta": {
+      "projects": "Our Projects",
+      "contact": "Contact Us"
+    },
+    "stats": {
+      "currentProjects": "Active",
+      "completed": "Completed",
+      "clients": "Partners"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Reliable partner in engineering construction",
+    "description": "TIM STROY is an engineering and construction company with extensive experience in Kazakhstan and CIS countries. We specialize in the design and installation of engineering systems for facilities of any scale.",
+    "experience": "Our clients include international corporations, airports, manufacturing facilities, and major residential complexes. Each project is executed by a team of highly qualified specialists using modern technologies.",
+    "page": {
+      "whyUs": "Why Choose Us",
+      "ourValues": "Our Values",
+      "valuesDescription": "Principles that guide our work",
+      "features": {
+        "experience": {
+          "title": "Years of Experience",
+          "description": "Over 10 years in engineering construction"
+        },
+        "team": {
+          "title": "Expert Team",
+          "description": "Highly qualified engineers and specialists"
+        },
+        "quality": {
+          "title": "Quality Standards",
+          "description": "Compliance with international standards"
+        },
+        "geography": {
+          "title": "Wide Geography",
+          "description": "Projects in Kazakhstan and CIS countries"
+        }
+      },
+      "values": {
+        "quality": "Quality and reliability in every project",
+        "innovation": "Innovation and modern technologies",
+        "partnership": "Long-term partnership with clients",
+        "responsibility": "Responsibility and meeting deadlines",
+        "safety": "Safety and compliance with standards"
+      }
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Comprehensive engineering solutions for your facility",
+    "viewAll": "All Services",
+    "water-supply": {
+      "title": "Water Supply",
+      "description": "Comprehensive water supply systems for facilities of any scale",
+      "features": ["Cold water supply", "Hot water supply", "Pump stations", "Water treatment"]
+    },
+    "sewage": {
+      "title": "Sewerage",
+      "description": "Design and installation of sewerage systems",
+      "features": ["Internal sewerage", "External sewerage", "Storm drainage", "Treatment facilities"]
+    },
+    "hvac": {
+      "title": "Ventilation",
+      "description": "Climate systems for comfort and production",
+      "features": ["Supply ventilation", "Exhaust ventilation", "Air conditioning", "Climate control"]
+    },
+    "fire-protection": {
+      "title": "Fire Protection",
+      "description": "Automatic fire safety systems",
+      "features": ["Sprinkler systems", "Deluge systems", "Gas suppression", "Fire alarm"]
+    },
+    "heating": {
+      "title": "Heating",
+      "description": "Turnkey efficient heating systems",
+      "features": ["Radiator heating", "Underfloor heating", "Heat points", "Boiler rooms"]
+    },
+    "electrical": {
+      "title": "Electrical",
+      "description": "Power and low-current electrical systems",
+      "features": ["Power networks", "Lighting", "Low-current systems", "Grounding"]
+    },
+    "boiler": {
+      "title": "Boiler Rooms",
+      "description": "Construction and modernization of boiler rooms",
+      "features": ["Gas boilers", "Electric boilers", "Modular boiler rooms", "Renovation"]
+    },
+    "drawer": {
+      "title": "Our Solutions",
+      "intro": "TIM STROY LLP offers a wide range of installation services for residential, industrial, and office buildings.",
+      "supply": "Our company also provides comprehensive supply of equipment for heating, water supply, sewerage, ventilation, and air conditioning systems directly from our partners — renowned manufacturers.",
+      "services": "TIM STROY LLP provides a full range of installation and commissioning services for internal and external engineering networks of buildings and entire industrial or residential complexes, adhering to national and international standards.",
+      "scope": "The company's activities cover all areas related to engineering networks of buildings and structures, including construction, major repairs, and reconstruction.",
+      "design": "Upon your request, we can develop design and working documentation.",
+      "quality": "TIM STROY LLP will ensure high-quality work execution within optimal timeframes and budget.",
+      "welcome": "We look forward to welcoming you among our clients and partners!",
+      "servicesTitle": "Service Areas",
+      "list": {
+        "coldHotWater": "Cold and hot water supply networks",
+        "electrical": "Power supply networks",
+        "heating": "Heat supply",
+        "plumbing": "Internal plumbing, heating, and sewerage systems",
+        "ventilation": "Ventilation and air conditioning",
+        "fireSuppression": "Automatic fire suppression",
+        "control": "Engineering systems control and management",
+        "signaling": "Alarm and notification systems"
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Completed facilities in Kazakhstan and CIS",
+    "viewAll": "View All",
+    "loadMore": "Load More",
+    "tabs": {
+      "completed": "Completed",
+      "inProgress": "In Progress"
+    },
+    "categories": {
+      "Инфраструктура": "Infrastructure",
+      "Промышленность": "Industry",
+      "Ресторан": "Restaurant",
+      "Торговый центр": "Shopping Center",
+      "Офисы": "Offices",
+      "Образование": "Education",
+      "Жилой комплекс": "Residential Complex",
+      "Спорт": "Sports",
+      "Ритейл": "Retail",
+      "Развлечения": "Entertainment",
+      "Гостиница": "Hotel"
+    },
+    "details": {
+      "year": "Year",
+      "location": "Location",
+      "category": "Category",
+      "discuss": "Let's discuss your project"
+    },
+    "items": {
+      "almaty-airport": {
+        "title": "Almaty International Airport",
+        "description": "The largest airport in Kazakhstan with passenger traffic of over 7 million people per year. Full range of engineering works for the new 50,000 m² terminal: supply and exhaust ventilation systems, central air conditioning, automatic fire suppression, cold and hot water supply.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "astana-airport": {
+        "title": "Astana International Airport",
+        "description": "The capital airport of Kazakhstan serving over 5 million passengers annually. Engineering systems implemented for terminal expansion: climate control units with heat recovery, automatic fire suppression system, internal water supply and drainage networks.",
+        "location": "Astana, Kazakhstan"
+      },
+      "turkestan-airport": {
+        "title": "Turkestan International Airport",
+        "description": "New international airport built as part of the regional tourism development program. Central air conditioning systems for waiting areas, supply and exhaust ventilation with filtration, cold and hot water supply networks installed.",
+        "location": "Turkestan, Kazakhstan"
+      },
+      "coca-cola-namangan": {
+        "title": "Coca-Cola Namangan",
+        "description": "Coca-Cola Ichimligi soft drinks production plant in Namangan region. Installation of process equipment cooling systems, industrial ventilation for production facilities, pipelines for raw material supply to bottling lines.",
+        "location": "Namangan, Uzbekistan"
+      },
+      "coca-cola-shymkent": {
+        "title": "Coca-Cola Shymkent",
+        "description": "Coca-Cola production complex in the southern region of Kazakhstan. Stainless steel process pipelines, industrial ventilation systems with air purification, power supply networks for production equipment installed.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "coca-cola-tajikistan": {
+        "title": "Coca-Cola Tajikistan",
+        "description": "Expansion of production capacity at the Dushanbe plant. Engineering systems installed for new PET bottle filling line: equipment cooling, industrial ventilation, internal water supply networks.",
+        "location": "Dushanbe, Tajikistan"
+      },
+      "coca-cola-tashkent": {
+        "title": "Coca-Cola Tashkent",
+        "description": "Coca-Cola headquarters plant in Uzbekistan. Expansion project completed: engineering systems installed for new production line, including cooling, ventilation, water treatment and power supply.",
+        "location": "Tashkent, Uzbekistan"
+      },
+      "coca-cola-astana": {
+        "title": "Coca-Cola Astana",
+        "description": "Coca-Cola production complex in the capital of Kazakhstan. Engineering infrastructure modernization: replacement of cooling systems, ventilation equipment upgrade, installation of automated control systems.",
+        "location": "Astana, Kazakhstan"
+      },
+      "mcdonalds-almaty-dostyk": {
+        "title": "McDonald's Dostyk Plaza",
+        "description": "Fast food restaurant in the premium Dostyk Plaza shopping center. Powerful exhaust systems for kitchen area, supply ventilation with air heating, split systems for service area, cold and hot water supply networks installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "mcdonalds-astana": {
+        "title": "McDonald's Fast Food Restaurant",
+        "description": "McDonald's restaurant chain in the capital of Kazakhstan. Engineering systems installed according to international brand standards: ventilation systems with air purification, water supply with filtration system, kitchen equipment power supply.",
+        "location": "Astana, Kazakhstan"
+      },
+      "mega-center-plus": {
+        "title": "MEGA Center Plus Shopping Center Expansion",
+        "description": "Expansion of one of the largest shopping centers in Almaty by 25,000 m². Central air conditioning systems, supply and exhaust ventilation with heat recovery, automatic fire suppression, internal water supply and sewerage networks installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "ramstore-mega-center-plus": {
+        "title": "Ramstore Mega Center Plus Shopping Center",
+        "description": "Ramstore hypermarket within the MEGA shopping complex. Refrigeration systems for grocery department, supply and exhaust ventilation with air purification, air conditioning for 8,000+ m² retail floor installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "ramstore-forum-mall": {
+        "title": "Ramstore Forum Mall Shopping Center",
+        "description": "Forum Mall shopping center with Ramstore hypermarket in Almagul district. Climate control systems for retail floors, sprinkler fire suppression, ventilation with supply air heating in winter installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "mega-center-almaty": {
+        "title": "MEGA Center Alma-Ata Shopping Center Expansion",
+        "description": "Expansion of the largest shopping and entertainment center in Almaty with a total area of 170,000 m². Engineering works for new retail spaces: ventilation, air conditioning, water supply, automatic fire suppression.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "jibek-joly-bc": {
+        "title": "Jibek Joly Business Center",
+        "description": "Modern Class A business center on Jibek Joly Avenue. Central heating and air conditioning systems, supply and exhaust ventilation with individual control for each floor, power supply networks with backup installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "astana-group-academy": {
+        "title": "Astana Group Academy",
+        "description": "Corporate training center of Astana Group holding. Climate control systems for classrooms, ventilation with standardized air exchange, modern lighting, security and access control systems installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "ramstore-samal": {
+        "title": "Ramstore Samal Shopping Center Reconstruction",
+        "description": "Reconstruction of shopping center in Samal district. Complete modernization of engineering systems: ventilation equipment replacement, air conditioning system upgrade, fire alarm and automation modernization.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "bloom-house": {
+        "title": "Bloom House Residential Complex",
+        "description": "Premium business-class residential complex in prestigious Almaty district. Individual heating and air conditioning systems, supply and exhaust ventilation with heat recovery, hot and cold water supply networks, smart home systems installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "shymkent-plaza": {
+        "title": "Shymkent Plaza Shopping Center",
+        "description": "The largest shopping and entertainment center in Shymkent with area over 80,000 m². Full range of engineering works: central air conditioning, supply and exhaust ventilation, automatic fire suppression, water supply and drainage networks.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "polpan": {
+        "title": "Polpan Insulation Materials Plant",
+        "description": "Production complex for insulation materials manufacturing. Industrial ventilation systems with dust air purification, production equipment power supply, automatic fire suppression system installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "kairat-base": {
+        "title": "FC Kairat Sports Base",
+        "description": "Training base of professional football club Kairat. Heating systems for sports halls and locker rooms, ventilation with humidity control, hot water supply for showers, lawn irrigation system installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "kairat-stadium": {
+        "title": "FC Kairat Central Stadium Reconstruction",
+        "description": "Reconstruction of FC Kairat home stadium with 23,800 capacity. Water supply and sewerage systems modernized, heating of under-stand premises, VIP area ventilation, automatic lawn irrigation system.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "logistic-center": {
+        "title": "Logistic Center",
+        "description": "Modern Class A logistics complex with 30,000 m² area. Air heating systems for warehouse premises, ventilation with temperature control, automatic fire suppression, power supply networks installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "almaly-office": {
+        "title": "Almaly Office",
+        "description": "Business center in Almaly district of Almaty. Central air conditioning and ventilation systems, power supply with backup, security and access control systems, structured cabling networks installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "zara-store": {
+        "title": "ZARA Store",
+        "description": "Flagship ZARA store in Dostyk Plaza shopping center with over 2,500 m² area. Climate control systems according to Inditex Group standards, supply and exhaust ventilation, sprinkler fire suppression, modern retail floor lighting installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "zara-home": {
+        "title": "ZARA Home Store",
+        "description": "ZARA Home brand home goods store. Air conditioning systems with stable temperature maintenance, ventilation with humidity control for textile product preservation installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "stradivarius": {
+        "title": "Stradivarius Stores",
+        "description": "Chain of Stradivarius young women's clothing stores. Climate control systems according to corporate brand standards, energy-efficient lighting, ventilation systems with air filtration installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "oysho": {
+        "title": "Oysho Store",
+        "description": "Oysho lingerie and sportswear store. Ventilation systems with precise temperature control in fitting areas, retail floor air conditioning, lighting and equipment power supply installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "pull-bear": {
+        "title": "Pull & Bear Store",
+        "description": "Pull & Bear youth clothing store in Dostyk Plaza shopping center. Climate control systems with individual zone control, modern LED lighting, ventilation with heat recovery installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "massimo-dutti": {
+        "title": "Massimo Dutti Store",
+        "description": "Premium Massimo Dutti clothing store. Climate control systems with silent equipment, designer retail floor lighting, security and video surveillance systems installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "bershka": {
+        "title": "Bershka Store",
+        "description": "Bershka youth clothing store chain in major shopping centers of Almaty and Astana. Unified ventilation and air conditioning systems according to Inditex Group standards installed.",
+        "location": "Almaty, Astana"
+      },
+      "uterque": {
+        "title": "Uterqüe Store",
+        "description": "Premium accessories and footwear boutique Uterqüe. Climate control systems for display areas, accent product lighting, ventilation with humidity control installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "zolotoe-yabloko": {
+        "title": "Zolotoe Yabloko Store",
+        "description": "Cosmetics and perfumery store of federal chain Zolotoe Yabloko. Climate control systems with precise temperature maintenance for cosmetic product preservation, ventilation with odor filtration installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "reserved": {
+        "title": "Reserved Store",
+        "description": "Polish brand Reserved clothing store of LPP group. Supply and exhaust ventilation systems according to European standards, air conditioning for 1,500+ m² retail floor installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "space-multimedia": {
+        "title": "Space Multimedia Store",
+        "description": "Multi-brand electronics and home appliances store. Climate control systems with equipment overheating protection, display and demo area power supply, modern lighting installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "cinemax-dostyk": {
+        "title": "Cinemax Dostyk Multiplex",
+        "description": "Cinemax 8-screen cinema multiplex in Dostyk Plaza shopping center. Silent ventilation and air conditioning systems for cinema halls, premises preparation for acoustic treatment, fire safety systems installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "marwin-shymkent": {
+        "title": "Marwin Store",
+        "description": "Marwin children's goods and toys hypermarket in Shymkent Plaza shopping center. Climate control systems with enhanced safety for children's area, bright retail floor lighting, ventilation with air purification installed.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "newyorker-shymkent": {
+        "title": "NewYorker Store",
+        "description": "German brand NewYorker youth clothing store. Ventilation and air conditioning systems according to corporate standards, energy-efficient retail floor lighting installed.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "sulpak-shymkent": {
+        "title": "Sulpak Store",
+        "description": "Sulpak electronics and home appliances hypermarket with over 3,000 m² area. Climate control systems for tech demo zones, powerful display power supply, modern lighting installed.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "koton-shymkent": {
+        "title": "Koton Store",
+        "description": "Turkish clothing brand Koton store. Supply and exhaust ventilation systems, air conditioning with individual zone control, modern LED lighting installed.",
+        "location": "Shymkent, Kazakhstan"
+      },
+      "mavi-almaty": {
+        "title": "Mavi Store",
+        "description": "Turkish brand Mavi Jeans denim store. Climate control systems for textile product preservation, modern collection accent lighting, fitting area ventilation installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "chaplin-cinemas": {
+        "title": "Chaplin Cinemas",
+        "description": "Chaplin Cinemas cinema chain in Almaty. Silent ventilation systems for cinema halls with standardized air exchange, air conditioning, premises preparation for acoustic treatment installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "mega-silk-way": {
+        "title": "MEGA Silk Way Shopping Center",
+        "description": "The largest shopping and entertainment center in Central Asia with total area of 350,000 m², located on the left bank of Astana. Full range of engineering works: central air conditioning for shopping galleries, supply and exhaust ventilation with heat recovery, automatic sprinkler fire suppression, cold and hot water supply networks.",
+        "location": "Astana, Kazakhstan"
+      },
+      "dostyk-plaza": {
+        "title": "Dostyk Plaza Shopping Center",
+        "description": "Premium shopping and entertainment center on Dostyk Avenue with 65,000 m² area. Central air conditioning systems with chiller equipment, supply and exhaust ventilation for shopping galleries, automatic fire suppression, water supply and sewerage networks for tenants and food court installed.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "nef-uptown": {
+        "title": "NEF Uptown Residential Complex",
+        "description": "Premium residential complex by Turkish developer NEF in upper city. Engineering systems being installed for residential towers: individual apartment heating, supply and exhaust ventilation with heat recovery, cold and hot water supply networks, smart home systems.",
+        "location": "Almaty, Kazakhstan"
+      },
+      "turkestan-residential": {
+        "title": "Turkestan Residential Complex",
+        "description": "Multi-story residential complex in Turkestan city, being built as part of regional development program. Engineering systems being installed: central heating from heat point, internal cold and hot water supply networks, sewerage, underground parking ventilation.",
+        "location": "Turkestan, Kazakhstan"
+      },
+      "hilton-garden-inn": {
+        "title": "Hilton Garden Inn Hotel",
+        "description": "International Hilton chain hotel with 200 rooms in central Almaty. Engineering systems installed according to international brand standards: central air conditioning with individual control for each room, supply and exhaust ventilation, automatic fire suppression, hot and cold water supply networks.",
+        "location": "Almaty, Kazakhstan"
+      }
+    }
+  },
+  "certificates": {
+    "title": "References",
+    "subtitle": "Feedback and recommendation letters from our partners",
+    "recommendation": "Letter of Recommendation",
+    "certificate": "Certificate"
+  },
+  "process": {
+    "title": "Work Process",
+    "subtitle": "Transparent process from request to delivery",
+    "steps": {
+      "step1": {
+        "title": "Request",
+        "description": "Contact us to discuss your project"
+      },
+      "step2": {
+        "title": "Analysis",
+        "description": "We study the technical requirements and site"
+      },
+      "step3": {
+        "title": "Design",
+        "description": "We develop project documentation"
+      },
+      "step4": {
+        "title": "Implementation",
+        "description": "We perform installation work"
+      },
+      "step5": {
+        "title": "Delivery",
+        "description": "We hand over with documentation and warranty"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Answers to common questions about partnership",
+    "items": {
+      "faq1": {
+        "question": "Which regions do you operate in?",
+        "answer": "We complete projects across Kazakhstan and CIS countries: Uzbekistan, Tajikistan, Kyrgyzstan."
+      },
+      "faq2": {
+        "question": "What types of facilities do you work with?",
+        "answer": "We specialize in industrial facilities, airports, shopping centers, and residential complexes."
+      },
+      "faq3": {
+        "question": "What warranties do you provide?",
+        "answer": "Warranty on all types of work according to the contract. Warranty and post-warranty service."
+      },
+      "faq4": {
+        "question": "How does the payment process work?",
+        "answer": "We work under contract with staged payments. Advance payment, interim payments, and final settlement after completion."
+      }
+    }
+  },
+  "contacts": {
+    "title": "Contact",
+    "subtitle": "Let's discuss your project",
+    "phone": {
+      "label": "Phone"
+    },
+    "email": {
+      "label": "Email"
+    },
+    "address": {
+      "label": "Address"
+    },
+    "schedule": {
+      "label": "Working Hours"
+    }
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contacts": "Contacts",
+    "schedule": "Working Hours",
+    "copyright": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The requested page does not exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  },
+  "common": {
+    "readMore": "Read More",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  },
+  "seo": {
+    "home": {
+      "title": "TIM STROY — Engineering & Construction Company | Kazakhstan",
+      "description": "TIM STROY — design and installation of engineering systems for industrial facilities, airports, residential complexes. Kazakhstan and CIS."
+    },
+    "services": {
+      "title": "Services — TIM STROY",
+      "description": "Engineering systems: water supply, sewerage, heating, ventilation, fire protection, electrical."
+    },
+    "projects": {
+      "title": "Projects — TIM STROY",
+      "description": "Completed TIM STROY projects. Major facilities in Kazakhstan and CIS countries."
+    },
+    "certificates": {
+      "title": "References — TIM STROY",
+      "description": "Feedback and recommendation letters from TIM STROY partners."
+    },
+    "contacts": {
+      "title": "Contact — TIM STROY",
+      "description": "Contact TIM STROY to discuss your project."
+    }
+  }
+}

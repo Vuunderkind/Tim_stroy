@@ -1,0 +1,502 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "projects": "Projeler",
+    "certificates": "Sertifikalar",
+    "contacts": "İletişim"
+  },
+  "hero": {
+    "badge": "Mühendislik ve İnşaat Şirketi",
+    "title": "TIM STROY",
+    "tagline": "Dünya Standartlarında Mühendislik Çözümleri",
+    "description": "Kazakistan ve BDT ülkelerinde endüstriyel tesisler, havalimanları ve konut kompleksleri için mühendislik sistemlerinin tasarımı ve montajı.",
+    "experience": "Uluslararası şirketlerle 10 yılı aşkın başarılı iş birliği. 50'den fazla büyük proje tamamlandı.",
+    "scroll": "Daha Fazla",
+    "cta": {
+      "projects": "Projelerimiz",
+      "contact": "İletişim"
+    },
+    "stats": {
+      "currentProjects": "Aktif",
+      "completed": "Tamamlanan",
+      "clients": "Ortak"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Mühendislik inşaatında güvenilir ortak",
+    "description": "TIM STROY, Kazakistan ve BDT ülkelerinde uzun yıllara dayanan deneyime sahip bir mühendislik ve inşaat şirketidir. Her ölçekteki tesisler için mühendislik sistemlerinin tasarımı ve montajında uzmanlaşmış bulunmaktayız.",
+    "experience": "Müşterilerimiz arasında uluslararası şirketler, havalimanları, üretim tesisleri ve büyük konut kompleksleri yer almaktadır. Her proje, modern teknolojiler kullanılarak uzman bir ekip tarafından gerçekleştirilmektedir.",
+    "page": {
+      "whyUs": "Neden Bizi Seçmelisiniz",
+      "ourValues": "Değerlerimiz",
+      "valuesDescription": "Çalışmamıza rehberlik eden ilkeler",
+      "features": {
+        "experience": {
+          "title": "Deneyim Yılları",
+          "description": "Mühendislik inşaatında 10 yılı aşkın tecrübe"
+        },
+        "team": {
+          "title": "Uzman Ekip",
+          "description": "Yüksek nitelikli mühendisler ve uzmanlar"
+        },
+        "quality": {
+          "title": "Kalite Standartları",
+          "description": "Uluslararası standartlara uygunluk"
+        },
+        "geography": {
+          "title": "Geniş Coğrafya",
+          "description": "Kazakistan ve BDT ülkelerinde projeler"
+        }
+      },
+      "values": {
+        "quality": "Her projede kalite ve güvenilirlik",
+        "innovation": "Yenilik ve modern teknolojiler",
+        "partnership": "Müşterilerle uzun vadeli ortaklık",
+        "responsibility": "Sorumluluk ve teslim tarihlerine uyum",
+        "safety": "Güvenlik ve standartlara uygunluk"
+      }
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Tesisiniz için kapsamlı mühendislik çözümleri",
+    "viewAll": "Tüm Hizmetler",
+    "water-supply": {
+      "title": "Su Temini",
+      "description": "Her ölçekteki tesisler için kapsamlı su temini sistemleri",
+      "features": ["Soğuk su temini", "Sıcak su temini", "Pompa istasyonları", "Su arıtma"]
+    },
+    "sewage": {
+      "title": "Kanalizasyon",
+      "description": "Kanalizasyon sistemlerinin tasarımı ve montajı",
+      "features": ["İç kanalizasyon", "Dış kanalizasyon", "Yağmur suyu drenajı", "Arıtma tesisleri"]
+    },
+    "hvac": {
+      "title": "Havalandırma",
+      "description": "Konfor ve üretim için iklimlendirme sistemleri",
+      "features": ["Taze hava", "Egzoz havalandırma", "Klima", "İklim kontrolü"]
+    },
+    "fire-protection": {
+      "title": "Yangın Söndürme",
+      "description": "Otomatik yangın güvenlik sistemleri",
+      "features": ["Sprinkler sistemleri", "Deluge sistemleri", "Gazlı söndürme", "Yangın alarmı"]
+    },
+    "heating": {
+      "title": "Isıtma",
+      "description": "Anahtar teslimi verimli ısıtma sistemleri",
+      "features": ["Radyatör ısıtma", "Yerden ısıtma", "Isı merkezleri", "Kazan daireleri"]
+    },
+    "electrical": {
+      "title": "Elektrik",
+      "description": "Kuvvetli ve zayıf akım elektrik sistemleri",
+      "features": ["Güç şebekeleri", "Aydınlatma", "Zayıf akım sistemleri", "Topraklama"]
+    },
+    "boiler": {
+      "title": "Kazan Daireleri",
+      "description": "Kazan dairesi inşaatı ve modernizasyonu",
+      "features": ["Gaz kazanları", "Elektrikli kazanlar", "Modüler kazan daireleri", "Yenileme"]
+    },
+    "drawer": {
+      "title": "Çözümlerimiz",
+      "intro": "TIM STROY LLP, konut, endüstriyel ve ofis binaları için geniş bir montaj hizmetleri yelpazesi sunmaktadır.",
+      "supply": "Şirketimiz ayrıca ortaklarımız olan tanınmış üreticilerden ısıtma, su temini, kanalizasyon, havalandırma ve iklimlendirme sistemleri için kapsamlı ekipman tedariki yapmaktadır.",
+      "services": "TIM STROY LLP, ulusal ve uluslararası standartlara uygun olarak binaların ve tüm endüstriyel veya konut komplekslerinin iç ve dış mühendislik ağlarının montaj ve devreye alma hizmetlerinin tamamını sunmaktadır.",
+      "scope": "Şirketin faaliyet alanı, inşaat, büyük onarımlar ve yeniden yapılanma dahil olmak üzere bina ve yapıların mühendislik ağlarıyla ilgili tüm alanları kapsamaktadır.",
+      "design": "Talebiniz üzerine proje ve çalışma belgelerini geliştirebiliriz.",
+      "quality": "TIM STROY LLP, optimum süre ve bütçe dahilinde yüksek kaliteli iş yürütmeyi garanti eder.",
+      "welcome": "Sizi müşterilerimiz ve ortaklarımız arasında görmekten mutluluk duyarız!",
+      "servicesTitle": "Hizmet Alanları",
+      "list": {
+        "coldHotWater": "Soğuk ve sıcak su temini şebekeleri",
+        "electrical": "Elektrik besleme şebekeleri",
+        "heating": "Isı temini",
+        "plumbing": "İç tesisat, ısıtma ve kanalizasyon sistemleri",
+        "ventilation": "Havalandırma ve iklimlendirme",
+        "fireSuppression": "Otomatik yangın söndürme",
+        "control": "Mühendislik sistemleri kontrol ve yönetimi",
+        "signaling": "Alarm ve uyarı sistemleri"
+      }
+    }
+  },
+  "projects": {
+    "title": "Projeler",
+    "subtitle": "Kazakistan ve BDT'de tamamlanan projeler",
+    "viewAll": "Tümünü Gör",
+    "loadMore": "Daha Fazla Göster",
+    "tabs": {
+      "completed": "Tamamlanan",
+      "inProgress": "Devam Eden"
+    },
+    "categories": {
+      "Инфраструктура": "Altyapı",
+      "Промышленность": "Sanayi",
+      "Ресторан": "Restoran",
+      "Торговый центр": "Alışveriş Merkezi",
+      "Офисы": "Ofisler",
+      "Образование": "Eğitim",
+      "Жилой комплекс": "Konut Kompleksi",
+      "Спорт": "Spor",
+      "Ритейл": "Perakende",
+      "Развлечения": "Eğlence",
+      "Гостиница": "Otel"
+    },
+    "details": {
+      "year": "Yıl",
+      "location": "Konum",
+      "category": "Kategori",
+      "discuss": "Projenizi tartışalım"
+    },
+    "items": {
+      "almaty-airport": {
+        "title": "Almaty Uluslararası Havalimanı",
+        "description": "Yılda 7 milyondan fazla yolcu taşıyan Kazakistan'ın en büyük havalimanı. 50.000 m²'lik yeni terminal için kapsamlı mühendislik çalışmaları: egzoz ve havalandırma sistemleri, merkezi klima, otomatik yangın söndürme, soğuk ve sıcak su temini.",
+        "location": "Almaty, Kazakistan"
+      },
+      "astana-airport": {
+        "title": "Astana Uluslararası Havalimanı",
+        "description": "Yılda 5 milyondan fazla yolcuya hizmet veren Kazakistan'ın başkent havalimanı. Terminal genişletmesi için mühendislik sistemleri: ısı geri kazanımlı iklimlendirme üniteleri, otomatik yangın söndürme sistemi, dahili su temini ve atık su şebekeleri.",
+        "location": "Astana, Kazakistan"
+      },
+      "turkestan-airport": {
+        "title": "Türkistan Uluslararası Havalimanı",
+        "description": "Bölgesel turizm geliştirme programı kapsamında inşa edilen yeni uluslararası havalimanı. Bekleme alanları için merkezi iklimlendirme sistemleri, filtreli egzoz ve havalandırma, soğuk ve sıcak su temini şebekeleri kuruldu.",
+        "location": "Türkistan, Kazakistan"
+      },
+      "coca-cola-namangan": {
+        "title": "Coca-Cola Namangan",
+        "description": "Namangan bölgesindeki Coca-Cola Ichimligi alkolsüz içecek üretim tesisi. Proses ekipman soğutma sistemleri, üretim tesisleri için endüstriyel havalandırma, dolum hatlarına hammadde beslemesi için boru hatları montajı.",
+        "location": "Namangan, Özbekistan"
+      },
+      "coca-cola-shymkent": {
+        "title": "Coca-Cola Şımkent",
+        "description": "Kazakistan'ın güney bölgesindeki Coca-Cola üretim kompleksi. Paslanmaz çelik proses boru hatları, hava temizlemeli endüstriyel havalandırma sistemleri, üretim ekipmanları için güç beslemesi şebekeleri kuruldu.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "coca-cola-tajikistan": {
+        "title": "Coca-Cola Tacikistan",
+        "description": "Duşanbe tesisinin üretim kapasitesi genişletmesi. Yeni PET şişe dolum hattı için mühendislik sistemleri kuruldu: ekipman soğutma, endüstriyel havalandırma, dahili su temini şebekeleri.",
+        "location": "Duşanbe, Tacikistan"
+      },
+      "coca-cola-tashkent": {
+        "title": "Coca-Cola Taşkent",
+        "description": "Özbekistan'daki Coca-Cola merkez fabrikası. Genişletme projesi tamamlandı: soğutma, havalandırma, su arıtma ve güç beslemesi dahil yeni üretim hattı için mühendislik sistemleri kuruldu.",
+        "location": "Taşkent, Özbekistan"
+      },
+      "coca-cola-astana": {
+        "title": "Coca-Cola Astana",
+        "description": "Kazakistan'ın başkentindeki Coca-Cola üretim kompleksi. Mühendislik altyapısı modernizasyonu: soğutma sistemlerinin değiştirilmesi, havalandırma ekipmanlarının yenilenmesi, otomatik kontrol sistemlerinin kurulumu.",
+        "location": "Astana, Kazakistan"
+      },
+      "mcdonalds-almaty-dostyk": {
+        "title": "McDonald's Dostyk Plaza",
+        "description": "Premium Dostyk Plaza alışveriş merkezindeki fast-food restoranı. Mutfak alanı için güçlü egzoz sistemleri, ısıtmalı taze hava havalandırması, servis alanı için split sistemler, soğuk ve sıcak su temini şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "mcdonalds-astana": {
+        "title": "McDonald's Fast-Food Restoranı",
+        "description": "Kazakistan'ın başkentindeki McDonald's restoran zinciri. Uluslararası marka standartlarına göre mühendislik sistemleri kuruldu: hava temizlemeli havalandırma sistemleri, filtrasyon sistemli su temini, mutfak ekipmanları güç beslemesi.",
+        "location": "Astana, Kazakistan"
+      },
+      "mega-center-plus": {
+        "title": "MEGA Center Plus AVM Genişletmesi",
+        "description": "Almaty'nin en büyük alışveriş merkezlerinden birinin 25.000 m² genişletmesi. Merkezi iklimlendirme sistemleri, ısı geri kazanımlı egzoz ve havalandırma, otomatik yangın söndürme, dahili su temini ve kanalizasyon şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "ramstore-mega-center-plus": {
+        "title": "Ramstore Mega Center Plus AVM",
+        "description": "MEGA alışveriş kompleksi içindeki Ramstore hipermarket. Market bölümü için soğutma sistemleri, hava temizlemeli egzoz ve havalandırma, 8.000 m²'lik mağaza alanı için iklimlendirme kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "ramstore-forum-mall": {
+        "title": "Ramstore Forum Mall AVM",
+        "description": "Almagul bölgesindeki Ramstore hipermarketli Forum Mall alışveriş merkezi. Mağaza alanları için iklim kontrol sistemleri, sprinkler yangın söndürme, kış döneminde taze hava ısıtmalı havalandırma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "mega-center-almaty": {
+        "title": "MEGA Center Alma-Ata AVM Genişletmesi",
+        "description": "Toplam 170.000 m²'lik Almaty'nin en büyük alışveriş ve eğlence merkezinin genişletmesi. Yeni perakende alanları için mühendislik çalışmaları: havalandırma, iklimlendirme, su temini, otomatik yangın söndürme.",
+        "location": "Almaty, Kazakistan"
+      },
+      "jibek-joly-bc": {
+        "title": "Jibek Joly İş Merkezi",
+        "description": "Jibek Joly Bulvarı'ndaki modern A Sınıfı iş merkezi. Merkezi ısıtma ve iklimlendirme sistemleri, her kat için bireysel kontrollü egzoz ve havalandırma, yedekli güç beslemesi şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "astana-group-academy": {
+        "title": "Astana Group Akademi",
+        "description": "Astana Group holding kurumsal eğitim merkezi. Sınıflar için iklim kontrol sistemleri, standart hava değişimli havalandırma, modern aydınlatma, güvenlik ve erişim kontrol sistemleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "ramstore-samal": {
+        "title": "Ramstore Samal AVM Yenileme",
+        "description": "Samal bölgesindeki alışveriş merkezinin yenilenmesi. Mühendislik sistemlerinin tam modernizasyonu: havalandırma ekipmanı değişimi, iklimlendirme sistemi yükseltmesi, yangın alarmı ve otomasyon modernizasyonu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "bloom-house": {
+        "title": "Bloom House Konut Kompleksi",
+        "description": "Almaty'nin prestijli bölgesindeki premium iş sınıfı konut kompleksi. Bireysel ısıtma ve iklimlendirme sistemleri, ısı geri kazanımlı egzoz ve havalandırma, sıcak ve soğuk su temini şebekeleri, akıllı ev sistemleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "shymkent-plaza": {
+        "title": "Shymkent Plaza AVM",
+        "description": "80.000 m²'yi aşan Şımkent'in en büyük alışveriş ve eğlence merkezi. Kapsamlı mühendislik çalışmaları: merkezi iklimlendirme, egzoz ve havalandırma, otomatik yangın söndürme, su temini ve atık su şebekeleri.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "polpan": {
+        "title": "Polpan Yalıtım Malzemeleri Fabrikası",
+        "description": "Yalıtım malzemeleri üretim kompleksi. Toz temizlemeli endüstriyel havalandırma sistemleri, üretim ekipmanları güç beslemesi, otomatik yangın söndürme sistemi kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "kairat-base": {
+        "title": "FK Kairat Spor Tesisi",
+        "description": "Profesyonel futbol kulübü Kairat'ın antrenman tesisi. Spor salonları ve soyunma odaları için ısıtma sistemleri, nem kontrollü havalandırma, duşlar için sıcak su temini, çim sulama sistemi kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "kairat-stadium": {
+        "title": "FK Kairat Merkez Stadyumu Yenileme",
+        "description": "23.800 kişilik FK Kairat ev sahibi stadyumunun yenilenmesi. Su temini ve kanalizasyon sistemleri modernize edildi, tribün altı mekanları ısıtma, VIP alan havalandırma, otomatik çim sulama sistemi.",
+        "location": "Almaty, Kazakistan"
+      },
+      "logistic-center": {
+        "title": "Lojistik Merkez",
+        "description": "30.000 m²'lik modern A Sınıfı lojistik kompleks. Depo alanları için hava ısıtma sistemleri, sıcaklık kontrollü havalandırma, otomatik yangın söndürme, güç beslemesi şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "almaly-office": {
+        "title": "Almaly Ofis",
+        "description": "Almaty'nin Almaly bölgesindeki iş merkezi. Merkezi iklimlendirme ve havalandırma sistemleri, yedekli güç beslemesi, güvenlik ve erişim kontrol sistemleri, yapısal kablolama şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "zara-store": {
+        "title": "ZARA Mağazası",
+        "description": "Dostyk Plaza AVM'deki 2.500 m²'yi aşan amiral ZARA mağazası. Inditex Group standartlarına göre iklim kontrol sistemleri, egzoz ve havalandırma, sprinkler yangın söndürme, modern mağaza aydınlatması kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "zara-home": {
+        "title": "ZARA Home Mağazası",
+        "description": "ZARA Home marka ev eşyaları mağazası. Sabit sıcaklık korumalı iklimlendirme sistemleri, tekstil ürünlerinin korunması için nem kontrollü havalandırma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "stradivarius": {
+        "title": "Stradivarius Mağazaları",
+        "description": "Stradivarius genç kadın giyim mağazaları zinciri. Kurumsal marka standartlarına göre iklim kontrol sistemleri, enerji verimli aydınlatma, hava filtrasyon sistemleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "oysho": {
+        "title": "Oysho Mağazası",
+        "description": "Oysho iç çamaşırı ve spor giyim mağazası. Deneme alanlarında hassas sıcaklık kontrollü havalandırma sistemleri, mağaza alanı iklimlendirme, aydınlatma ve ekipman güç beslemesi kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "pull-bear": {
+        "title": "Pull & Bear Mağazası",
+        "description": "Dostyk Plaza AVM'deki Pull & Bear genç giyim mağazası. Bireysel bölge kontrollü iklim kontrol sistemleri, modern LED aydınlatma, ısı geri kazanımlı havalandırma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "massimo-dutti": {
+        "title": "Massimo Dutti Mağazası",
+        "description": "Premium Massimo Dutti giyim mağazası. Sessiz ekipmanlarla iklim kontrol sistemleri, tasarımcı mağaza aydınlatması, güvenlik ve video gözetim sistemleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "bershka": {
+        "title": "Bershka Mağazası",
+        "description": "Almaty ve Astana'nın büyük alışveriş merkezlerindeki Bershka genç giyim mağazaları zinciri. Inditex Group standartlarına göre birleşik havalandırma ve iklimlendirme sistemleri kuruldu.",
+        "location": "Almaty, Astana"
+      },
+      "uterque": {
+        "title": "Uterqüe Mağazası",
+        "description": "Premium aksesuar ve ayakkabı butiği Uterqüe. Vitrin alanları için iklim kontrol sistemleri, ürün vurgulu aydınlatma, nem kontrollü havalandırma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "zolotoe-yabloko": {
+        "title": "Zolotoe Yabloko Mağazası",
+        "description": "Federal Zolotoe Yabloko zincirinin kozmetik ve parfümeri mağazası. Kozmetik ürünlerin korunması için hassas sıcaklık kontrollü iklim kontrol sistemleri, koku filtrelemeli havalandırma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "reserved": {
+        "title": "Reserved Mağazası",
+        "description": "LPP grubunun Polonyalı markası Reserved giyim mağazası. Avrupa standartlarına göre egzoz ve havalandırma sistemleri, 1.500 m²'yi aşan mağaza alanı için iklimlendirme kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "space-multimedia": {
+        "title": "Space Multimedia Mağazası",
+        "description": "Çok markalı elektronik ve ev aletleri mağazası. Ekipman aşırı ısınma korumalı iklim kontrol sistemleri, vitrin ve demo alan güç beslemesi, modern aydınlatma kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "cinemax-dostyk": {
+        "title": "Cinemax Dostyk Multiplex",
+        "description": "Dostyk Plaza AVM'deki 8 salonlu Cinemax sinema multipleksi. Sinema salonları için sessiz havalandırma ve iklimlendirme sistemleri, akustik işleme için mekan hazırlığı, yangın güvenlik sistemleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "marwin-shymkent": {
+        "title": "Marwin Mağazası",
+        "description": "Shymkent Plaza AVM'deki Marwin çocuk ürünleri ve oyuncak hipermarketi. Çocuk alanı için artırılmış güvenlikli iklim kontrol sistemleri, parlak mağaza aydınlatması, hava temizlemeli havalandırma kuruldu.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "newyorker-shymkent": {
+        "title": "NewYorker Mağazası",
+        "description": "Alman markası NewYorker genç giyim mağazası. Kurumsal standartlara göre havalandırma ve iklimlendirme sistemleri, enerji verimli mağaza aydınlatması kuruldu.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "sulpak-shymkent": {
+        "title": "Sulpak Mağazası",
+        "description": "3.000 m²'yi aşan Sulpak elektronik ve ev aletleri hipermarketi. Teknik demo alanları için iklim kontrol sistemleri, güçlü vitrin güç beslemesi, modern aydınlatma kuruldu.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "koton-shymkent": {
+        "title": "Koton Mağazası",
+        "description": "Türk giyim markası Koton mağazası. Egzoz ve havalandırma sistemleri, bireysel bölge kontrollü iklimlendirme, modern LED aydınlatma kuruldu.",
+        "location": "Şımkent, Kazakistan"
+      },
+      "mavi-almaty": {
+        "title": "Mavi Mağazası",
+        "description": "Türk markası Mavi Jeans kot giyim mağazası. Tekstil ürünlerinin korunması için iklim kontrol sistemleri, koleksiyon vurgulu modern aydınlatma, deneme alanı havalandırması kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "chaplin-cinemas": {
+        "title": "Chaplin Cinemas",
+        "description": "Almaty'deki Chaplin Cinemas sinema zinciri. Standart hava değişimli sinema salonları için sessiz havalandırma sistemleri, iklimlendirme, akustik işleme için mekan hazırlığı kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "mega-silk-way": {
+        "title": "MEGA Silk Way AVM",
+        "description": "Astana'nın sol yakasında bulunan 350.000 m² toplam alana sahip Orta Asya'nın en büyük alışveriş ve eğlence merkezi. Kapsamlı mühendislik çalışmaları: alışveriş galerileri için merkezi iklimlendirme, ısı geri kazanımlı egzoz ve havalandırma, otomatik sprinkler yangın söndürme, soğuk ve sıcak su temini şebekeleri.",
+        "location": "Astana, Kazakistan"
+      },
+      "dostyk-plaza": {
+        "title": "Dostyk Plaza AVM",
+        "description": "Dostyk Bulvarı'ndaki 65.000 m²'lik premium alışveriş ve eğlence merkezi. Chiller ekipmanlarıyla merkezi iklimlendirme sistemleri, alışveriş galerileri için egzoz ve havalandırma, otomatik yangın söndürme, kiracılar ve yemek alanı için su temini ve kanalizasyon şebekeleri kuruldu.",
+        "location": "Almaty, Kazakistan"
+      },
+      "nef-uptown": {
+        "title": "NEF Uptown Konut Kompleksi",
+        "description": "Şehrin üst kesiminde Türk müteahhit NEF'in premium konut kompleksi. Konut kuleleri için mühendislik sistemleri kuruluyor: bireysel daire ısıtması, ısı geri kazanımlı egzoz ve havalandırma, soğuk ve sıcak su temini şebekeleri, akıllı ev sistemleri.",
+        "location": "Almaty, Kazakistan"
+      },
+      "turkestan-residential": {
+        "title": "Türkistan Konut Kompleksi",
+        "description": "Bölgesel kalkınma programı kapsamında inşa edilen Türkistan şehrindeki çok katlı konut kompleksi. Mühendislik sistemleri kuruluyor: ısı noktasından merkezi ısıtma, dahili soğuk ve sıcak su temini şebekeleri, kanalizasyon, yeraltı otopark havalandırması.",
+        "location": "Türkistan, Kazakistan"
+      },
+      "hilton-garden-inn": {
+        "title": "Hilton Garden Inn Otel",
+        "description": "Almaty merkezinde 200 odalı uluslararası Hilton zinciri oteli. Uluslararası marka standartlarına göre mühendislik sistemleri kuruldu: her oda için bireysel kontrollü merkezi iklimlendirme, egzoz ve havalandırma, otomatik yangın söndürme, sıcak ve soğuk su temini şebekeleri.",
+        "location": "Almaty, Kazakistan"
+      }
+    }
+  },
+  "certificates": {
+    "title": "Referanslar",
+    "subtitle": "Ortaklarımızdan geri bildirimler ve referans mektupları",
+    "recommendation": "Referans Mektubu",
+    "certificate": "Sertifika"
+  },
+  "process": {
+    "title": "Çalışma Süreci",
+    "subtitle": "Başvurudan teslimata şeffaf süreç",
+    "steps": {
+      "step1": {
+        "title": "Başvuru",
+        "description": "Projenizi görüşmek için bizimle iletişime geçin"
+      },
+      "step2": {
+        "title": "Analiz",
+        "description": "Teknik gereksinimleri ve sahayı inceliyoruz"
+      },
+      "step3": {
+        "title": "Tasarım",
+        "description": "Proje dokümantasyonunu hazırlıyoruz"
+      },
+      "step4": {
+        "title": "Uygulama",
+        "description": "Montaj işlerini gerçekleştiriyoruz"
+      },
+      "step5": {
+        "title": "Teslimat",
+        "description": "Belgeler ve garanti ile teslim ediyoruz"
+      }
+    }
+  },
+  "faq": {
+    "title": "SSS",
+    "subtitle": "İş birliği hakkında sık sorulan sorular",
+    "items": {
+      "faq1": {
+        "question": "Hangi bölgelerde faaliyet gösteriyorsunuz?",
+        "answer": "Kazakistan ve BDT ülkelerinde projeler gerçekleştiriyoruz: Özbekistan, Tacikistan, Kırgızistan."
+      },
+      "faq2": {
+        "question": "Ne tür tesislerle çalışıyorsunuz?",
+        "answer": "Endüstriyel tesisler, havalimanları, alışveriş merkezleri ve konut komplekslerinde uzmanlaşıyoruz."
+      },
+      "faq3": {
+        "question": "Hangi garantileri sağlıyorsunuz?",
+        "answer": "Sözleşmeye göre tüm iş türlerinde garanti. Garanti ve garanti sonrası servis."
+      },
+      "faq4": {
+        "question": "Ödeme nasıl gerçekleşiyor?",
+        "answer": "Aşamalı ödemelerle sözleşmeli çalışıyoruz. Avans, ara ödemeler ve tamamlandıktan sonra nihai hesaplaşma."
+      }
+    }
+  },
+  "contacts": {
+    "title": "İletişim",
+    "subtitle": "Projenizi görüşelim",
+    "phone": {
+      "label": "Telefon"
+    },
+    "email": {
+      "label": "E-posta"
+    },
+    "address": {
+      "label": "Adres"
+    },
+    "schedule": {
+      "label": "Çalışma Saatleri"
+    }
+  },
+  "footer": {
+    "navigation": "Navigasyon",
+    "contacts": "İletişim",
+    "schedule": "Çalışma Saatleri",
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "İstenen sayfa mevcut değil veya taşınmış.",
+    "backHome": "Ana Sayfaya Dön"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası"
+  },
+  "common": {
+    "readMore": "Devamını Oku",
+    "close": "Kapat",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu"
+  },
+  "seo": {
+    "home": {
+      "title": "TIM STROY — Mühendislik ve İnşaat Şirketi | Kazakistan",
+      "description": "TIM STROY — endüstriyel tesisler, havalimanları ve konut kompleksleri için mühendislik sistemleri tasarımı ve montajı. Kazakistan ve BDT."
+    },
+    "services": {
+      "title": "Hizmetler — TIM STROY",
+      "description": "Mühendislik sistemleri: su temini, kanalizasyon, ısıtma, havalandırma, yangın söndürme, elektrik."
+    },
+    "projects": {
+      "title": "Projeler — TIM STROY",
+      "description": "TIM STROY tamamlanmış projeleri. Kazakistan ve BDT ülkelerindeki büyük projeler."
+    },
+    "certificates": {
+      "title": "Referanslar — TIM STROY",
+      "description": "TIM STROY ortaklarından geri bildirimler ve referans mektupları."
+    },
+    "contacts": {
+      "title": "İletişim — TIM STROY",
+      "description": "Projenizi görüşmek için TIM STROY ile iletişime geçin."
+    }
+  }
+}

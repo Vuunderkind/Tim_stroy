@@ -1,0 +1,502 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "projects": "Projekte",
+    "certificates": "Zertifikate",
+    "contacts": "Kontakt"
+  },
+  "hero": {
+    "badge": "Ingenieur- und Bauunternehmen",
+    "title": "TIM STROY",
+    "tagline": "Ingenieurlösungen auf Weltniveau",
+    "description": "Planung und Installation von technischen Systemen für Industrieanlagen, Flughäfen und Wohnkomplexe in Kasachstan und der GUS.",
+    "experience": "Über 10 Jahre erfolgreiche Partnerschaft mit internationalen Konzernen. Mehr als 50 Großprojekte abgeschlossen.",
+    "scroll": "Mehr erfahren",
+    "cta": {
+      "projects": "Unsere Projekte",
+      "contact": "Kontaktieren Sie uns"
+    },
+    "stats": {
+      "currentProjects": "Aktiv",
+      "completed": "Abgeschlossen",
+      "clients": "Partner"
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Zuverlässiger Partner im Ingenieurwesen",
+    "description": "TIM STROY ist ein Ingenieur- und Bauunternehmen mit umfangreicher Erfahrung in Kasachstan und GUS-Ländern. Wir spezialisieren uns auf die Planung und Installation von technischen Systemen für Objekte jeder Größenordnung.",
+    "experience": "Zu unseren Kunden gehören internationale Konzerne, Flughäfen, Produktionsanlagen und große Wohnkomplexe. Jedes Projekt wird von einem Team hochqualifizierter Spezialisten mit modernsten Technologien durchgeführt.",
+    "page": {
+      "whyUs": "Warum uns wählen",
+      "ourValues": "Unsere Werte",
+      "valuesDescription": "Prinzipien, die unsere Arbeit leiten",
+      "features": {
+        "experience": {
+          "title": "Jahrelange Erfahrung",
+          "description": "Über 10 Jahre im Ingenieurwesen"
+        },
+        "team": {
+          "title": "Expertenteam",
+          "description": "Hochqualifizierte Ingenieure und Spezialisten"
+        },
+        "quality": {
+          "title": "Qualitätsstandards",
+          "description": "Einhaltung internationaler Standards"
+        },
+        "geography": {
+          "title": "Breite Geographie",
+          "description": "Projekte in Kasachstan und GUS-Ländern"
+        }
+      },
+      "values": {
+        "quality": "Qualität und Zuverlässigkeit in jedem Projekt",
+        "innovation": "Innovation und moderne Technologien",
+        "partnership": "Langfristige Partnerschaft mit Kunden",
+        "responsibility": "Verantwortung und Termineinhaltung",
+        "safety": "Sicherheit und Standardkonformität"
+      }
+    }
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "subtitle": "Umfassende Ingenieurlösungen für Ihr Objekt",
+    "viewAll": "Alle Dienstleistungen",
+    "water-supply": {
+      "title": "Wasserversorgung",
+      "description": "Umfassende Wasserversorgungssysteme für Objekte jeder Größenordnung",
+      "features": ["Kaltwasserversorgung", "Warmwasserversorgung", "Pumpstationen", "Wasseraufbereitung"]
+    },
+    "sewage": {
+      "title": "Kanalisation",
+      "description": "Planung und Installation von Kanalisationssystemen",
+      "features": ["Innenkanalisation", "Außenkanalisation", "Regenwasserableitung", "Kläranlagen"]
+    },
+    "hvac": {
+      "title": "Lüftung",
+      "description": "Klimasysteme für Komfort und Produktion",
+      "features": ["Zuluft", "Abluft", "Klimatisierung", "Klimakontrolle"]
+    },
+    "fire-protection": {
+      "title": "Brandschutz",
+      "description": "Automatische Brandschutzsysteme",
+      "features": ["Sprinklersysteme", "Sprühflutanlagen", "Gaslöschanlagen", "Brandmeldeanlage"]
+    },
+    "heating": {
+      "title": "Heizung",
+      "description": "Effiziente Heizungssysteme schlüsselfertig",
+      "features": ["Radiatorheizung", "Fußbodenheizung", "Wärmepunkte", "Heizungsräume"]
+    },
+    "electrical": {
+      "title": "Elektrik",
+      "description": "Stark- und Schwachstrom-Elektrosysteme",
+      "features": ["Stromnetze", "Beleuchtung", "Schwachstromsysteme", "Erdung"]
+    },
+    "boiler": {
+      "title": "Heizungsräume",
+      "description": "Bau und Modernisierung von Heizungsräumen",
+      "features": ["Gaskessel", "Elektrokessel", "Modulare Heizungsräume", "Renovierung"]
+    },
+    "drawer": {
+      "title": "Unsere Lösungen",
+      "intro": "TIM STROY LLP bietet ein breites Spektrum an Installationsdienstleistungen für Wohn-, Industrie- und Bürogebäude.",
+      "supply": "Unser Unternehmen liefert auch umfassende Ausrüstung für Heizungs-, Wasserversorgungs-, Abwasser-, Lüftungs- und Klimaanlagen direkt von unseren Partnern — renommierten Herstellern.",
+      "services": "TIM STROY LLP bietet das gesamte Spektrum an Montage- und Inbetriebnahmedienstleistungen für interne und externe Versorgungsnetze von Gebäuden und kompletten Industrie- oder Wohnkomplexen gemäß nationalen und internationalen Standards.",
+      "scope": "Die Tätigkeit des Unternehmens umfasst alle Bereiche im Zusammenhang mit Versorgungsnetzen von Gebäuden und Bauwerken, einschließlich Neubau, Sanierung und Umbau.",
+      "design": "Auf Anfrage entwickeln wir für Sie Planungs- und Arbeitsunterlagen.",
+      "quality": "TIM STROY LLP gewährleistet eine qualitativ hochwertige Arbeitsausführung in optimalen Zeiträumen und im Rahmen des vereinbarten Budgets.",
+      "welcome": "Wir freuen uns darauf, Sie zu unseren Kunden und Partnern zählen zu dürfen!",
+      "servicesTitle": "Arbeitsbereiche",
+      "list": {
+        "coldHotWater": "Kalt- und Warmwasserversorgungsnetze",
+        "electrical": "Stromversorgungsnetze",
+        "heating": "Wärmeversorgung",
+        "plumbing": "Interne Sanitär-, Heizungs- und Abwassersysteme",
+        "ventilation": "Lüftung und Klimatisierung",
+        "fireSuppression": "Automatische Brandlöschung",
+        "control": "Steuerung und Management technischer Systeme",
+        "signaling": "Alarm- und Benachrichtigungssysteme"
+      }
+    }
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Abgeschlossene Objekte in Kasachstan und der GUS",
+    "viewAll": "Alle ansehen",
+    "loadMore": "Mehr laden",
+    "tabs": {
+      "completed": "Abgeschlossen",
+      "inProgress": "In Arbeit"
+    },
+    "categories": {
+      "Инфраструктура": "Infrastruktur",
+      "Промышленность": "Industrie",
+      "Ресторан": "Restaurant",
+      "Торговый центр": "Einkaufszentrum",
+      "Офисы": "Büros",
+      "Образование": "Bildung",
+      "Жилой комплекс": "Wohnkomplex",
+      "Спорт": "Sport",
+      "Ритейл": "Einzelhandel",
+      "Развлечения": "Unterhaltung",
+      "Гостиница": "Hotel"
+    },
+    "details": {
+      "year": "Jahr",
+      "location": "Standort",
+      "category": "Kategorie",
+      "discuss": "Besprechen wir Ihr Projekt"
+    },
+    "items": {
+      "almaty-airport": {
+        "title": "Internationaler Flughafen Almaty",
+        "description": "Der größte Flughafen Kasachstans mit über 7 Millionen Passagieren pro Jahr. Komplette Ingenieurarbeiten für das neue 50.000 m² Terminal: Zu- und Abluftanlagen, zentrale Klimatisierung, automatische Brandbekämpfung, Kalt- und Warmwasserversorgung.",
+        "location": "Almaty, Kasachstan"
+      },
+      "astana-airport": {
+        "title": "Internationaler Flughafen Astana",
+        "description": "Der Hauptstadtflughafen Kasachstans mit über 5 Millionen Passagieren jährlich. Technische Systeme für die Terminalerweiterung: Klimaanlagen mit Wärmerückgewinnung, automatisches Brandbekämpfungssystem, interne Wasserver- und Entsorgungsnetze.",
+        "location": "Astana, Kasachstan"
+      },
+      "turkestan-airport": {
+        "title": "Internationaler Flughafen Turkestan",
+        "description": "Neuer internationaler Flughafen im Rahmen des regionalen Tourismusentwicklungsprogramms. Zentrale Klimaanlagen für Wartebereiche, Zu- und Abluftanlagen mit Filterung, Kalt- und Warmwasserversorgungsnetze installiert.",
+        "location": "Turkestan, Kasachstan"
+      },
+      "coca-cola-namangan": {
+        "title": "Coca-Cola Namangan",
+        "description": "Coca-Cola Ichimligi Erfrischungsgetränke-Produktionsanlage in der Region Namangan. Installation von Kühlsystemen für Prozessausrüstung, industrielle Belüftung für Produktionsanlagen, Rohrleitungen für die Rohstoffversorgung der Abfülllinien.",
+        "location": "Namangan, Usbekistan"
+      },
+      "coca-cola-shymkent": {
+        "title": "Coca-Cola Schymkent",
+        "description": "Coca-Cola Produktionskomplex in der südlichen Region Kasachstans. Edelstahl-Prozessrohrleitungen, industrielle Lüftungssysteme mit Luftreinigung, Stromversorgungsnetze für Produktionsanlagen installiert.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "coca-cola-tajikistan": {
+        "title": "Coca-Cola Tadschikistan",
+        "description": "Erweiterung der Produktionskapazität im Werk Duschanbe. Technische Systeme für neue PET-Flaschenabfülllinie installiert: Anlagenkühlung, industrielle Belüftung, interne Wasserversorgungsnetze.",
+        "location": "Duschanbe, Tadschikistan"
+      },
+      "coca-cola-tashkent": {
+        "title": "Coca-Cola Taschkent",
+        "description": "Coca-Cola Hauptwerk in Usbekistan. Erweiterungsprojekt abgeschlossen: Technische Systeme für neue Produktionslinie installiert, einschließlich Kühlung, Belüftung, Wasseraufbereitung und Stromversorgung.",
+        "location": "Taschkent, Usbekistan"
+      },
+      "coca-cola-astana": {
+        "title": "Coca-Cola Astana",
+        "description": "Coca-Cola Produktionskomplex in der Hauptstadt Kasachstans. Modernisierung der technischen Infrastruktur: Austausch der Kühlsysteme, Aktualisierung der Lüftungsanlagen, Installation automatisierter Steuerungssysteme.",
+        "location": "Astana, Kasachstan"
+      },
+      "mcdonalds-almaty-dostyk": {
+        "title": "McDonald's Dostyk Plaza",
+        "description": "Schnellrestaurant im Premium-Einkaufszentrum Dostyk Plaza. Leistungsstarke Absauganlagen für Küchenbereich, Zuluftanlage mit Lufterwärmung, Split-Systeme für Servicebereich, Kalt- und Warmwasserversorgungsnetze installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "mcdonalds-astana": {
+        "title": "McDonald's Schnellrestaurant",
+        "description": "McDonald's Restaurantkette in der Hauptstadt Kasachstans. Technische Systeme nach internationalen Markenstandards installiert: Lüftungssysteme mit Luftreinigung, Wasserversorgung mit Filtersystem, Küchengeräte-Stromversorgung.",
+        "location": "Astana, Kasachstan"
+      },
+      "mega-center-plus": {
+        "title": "MEGA Center Plus Einkaufszentrum Erweiterung",
+        "description": "Erweiterung eines der größten Einkaufszentren in Almaty um 25.000 m². Zentrale Klimaanlagen, Zu- und Abluftanlagen mit Wärmerückgewinnung, automatische Brandbekämpfung, interne Wasserversorgungs- und Abwassernetze installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "ramstore-mega-center-plus": {
+        "title": "Ramstore Mega Center Plus Einkaufszentrum",
+        "description": "Ramstore Hypermarkt im MEGA Einkaufskomplex. Kältesysteme für Lebensmittelabteilung, Zu- und Abluftanlagen mit Luftreinigung, Klimatisierung für über 8.000 m² Verkaufsfläche installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "ramstore-forum-mall": {
+        "title": "Ramstore Forum Mall Einkaufszentrum",
+        "description": "Forum Mall Einkaufszentrum mit Ramstore Hypermarkt im Stadtteil Almagul. Klimakontrollsysteme für Verkaufsflächen, Sprinkler-Brandbekämpfung, Belüftung mit Zulufterwärmung im Winter installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "mega-center-almaty": {
+        "title": "MEGA Center Alma-Ata Einkaufszentrum Erweiterung",
+        "description": "Erweiterung des größten Einkaufs- und Unterhaltungszentrums in Almaty mit einer Gesamtfläche von 170.000 m². Ingenieurarbeiten für neue Einzelhandelsflächen: Belüftung, Klimatisierung, Wasserversorgung, automatische Brandbekämpfung.",
+        "location": "Almaty, Kasachstan"
+      },
+      "jibek-joly-bc": {
+        "title": "Jibek Joly Geschäftszentrum",
+        "description": "Modernes Klasse-A Geschäftszentrum an der Jibek Joly Allee. Zentrale Heizungs- und Klimaanlagen, Zu- und Abluftanlagen mit individueller Steuerung für jede Etage, Stromversorgungsnetze mit Backup installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "astana-group-academy": {
+        "title": "Astana Group Academy",
+        "description": "Firmenschulungszentrum der Astana Group Holding. Klimakontrollsysteme für Schulungsräume, Belüftung mit standardisiertem Luftaustausch, moderne Beleuchtung, Sicherheits- und Zugangskontrollsysteme installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "ramstore-samal": {
+        "title": "Ramstore Samal Einkaufszentrum Rekonstruktion",
+        "description": "Rekonstruktion des Einkaufszentrums im Stadtteil Samal. Komplette Modernisierung der technischen Systeme: Austausch der Lüftungsanlagen, Aktualisierung des Klimatisierungssystems, Modernisierung von Brandmeldeanlage und Automatik.",
+        "location": "Almaty, Kasachstan"
+      },
+      "bloom-house": {
+        "title": "Bloom House Wohnkomplex",
+        "description": "Premium Business-Class Wohnkomplex in prestigeträchtigem Almatyer Stadtteil. Individuelle Heizungs- und Klimaanlagen, Zu- und Abluftanlagen mit Wärmerückgewinnung, Warm- und Kaltwasserversorgungsnetze, Smart-Home-Systeme installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "shymkent-plaza": {
+        "title": "Shymkent Plaza Einkaufszentrum",
+        "description": "Das größte Einkaufs- und Unterhaltungszentrum in Schymkent mit über 80.000 m² Fläche. Komplette Ingenieurarbeiten: zentrale Klimatisierung, Zu- und Abluftanlagen, automatische Brandbekämpfung, Wasserversorgungs- und Entwässerungsnetze.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "polpan": {
+        "title": "Polpan Isoliermaterialwerk",
+        "description": "Produktionskomplex für Isoliermaterialherstellung. Industrielle Lüftungssysteme mit Staublufreinigung, Stromversorgung für Produktionsanlagen, automatisches Brandbekämpfungssystem installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "kairat-base": {
+        "title": "FC Kairat Sportbasis",
+        "description": "Trainingsbasis des Profifußballclubs Kairat. Heizsysteme für Sporthallen und Umkleidekabinen, Belüftung mit Feuchtigkeitskontrolle, Warmwasserversorgung für Duschen, Rasenberegnungssystem installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "kairat-stadium": {
+        "title": "FC Kairat Zentralstadion Rekonstruktion",
+        "description": "Rekonstruktion des FC Kairat Heimstadions mit 23.800 Plätzen. Wasserversorgungs- und Abwassersysteme modernisiert, Heizung der Tribünenräume, VIP-Bereich-Belüftung, automatisches Rasenberegnungssystem.",
+        "location": "Almaty, Kasachstan"
+      },
+      "logistic-center": {
+        "title": "Logistikzentrum",
+        "description": "Moderner Klasse-A Logistikkomplex mit 30.000 m² Fläche. Luftheizsysteme für Lagerhallen, Belüftung mit Temperaturkontrolle, automatische Brandbekämpfung, Stromversorgungsnetze installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "almaly-office": {
+        "title": "Almaly Office",
+        "description": "Geschäftszentrum im Almaly-Bezirk von Almaty. Zentrale Klimatisierungs- und Belüftungssysteme, Stromversorgung mit Backup, Sicherheits- und Zugangskontrollsysteme, strukturierte Verkabelungsnetze installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "zara-store": {
+        "title": "ZARA Geschäft",
+        "description": "Flaggschiff-ZARA-Geschäft im Dostyk Plaza Einkaufszentrum mit über 2.500 m² Fläche. Klimakontrollsysteme nach Inditex Group Standards, Zu- und Abluftanlagen, Sprinkler-Brandbekämpfung, moderne Verkaufsflächenbeleuchtung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "zara-home": {
+        "title": "ZARA Home Geschäft",
+        "description": "ZARA Home Marken-Heimwarengeschäft. Klimaanlagen mit stabiler Temperaturhaltung, Belüftung mit Feuchtigkeitskontrolle für Textilprodukterhaltung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "stradivarius": {
+        "title": "Stradivarius Geschäfte",
+        "description": "Stradivarius Damenbekleidungskette. Klimakontrollsysteme nach Markenstandards, energieeffiziente Beleuchtung, Lüftungssysteme mit Luftfiltration installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "oysho": {
+        "title": "Oysho Geschäft",
+        "description": "Oysho Dessous- und Sportbekleidungsgeschäft. Lüftungssysteme mit präziser Temperaturkontrolle in Umkleidebereichen, Verkaufsflächenklimatisierung, Beleuchtungs- und Gerätestromversorgung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "pull-bear": {
+        "title": "Pull & Bear Geschäft",
+        "description": "Pull & Bear Jugendbekleidungsgeschäft im Dostyk Plaza Einkaufszentrum. Klimakontrollsysteme mit individueller Zonensteuerung, moderne LED-Beleuchtung, Belüftung mit Wärmerückgewinnung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "massimo-dutti": {
+        "title": "Massimo Dutti Geschäft",
+        "description": "Premium Massimo Dutti Bekleidungsgeschäft. Klimakontrollsysteme mit geräuschloser Ausrüstung, Designer-Verkaufsflächenbeleuchtung, Sicherheits- und Videoüberwachungssysteme installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "bershka": {
+        "title": "Bershka Geschäft",
+        "description": "Bershka Jugendbekleidungskette in großen Einkaufszentren von Almaty und Astana. Einheitliche Belüftungs- und Klimatisierungssysteme nach Inditex Group Standards installiert.",
+        "location": "Almaty, Astana"
+      },
+      "uterque": {
+        "title": "Uterqüe Geschäft",
+        "description": "Premium Accessoires- und Schuhboutique Uterqüe. Klimakontrollsysteme für Auslagenbereiche, Akzentproduktbeleuchtung, Belüftung mit Feuchtigkeitskontrolle installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "zolotoe-yabloko": {
+        "title": "Zolotoe Yabloko Geschäft",
+        "description": "Kosmetik- und Parfümeriegeschäft der föderalen Kette Zolotoe Yabloko. Klimakontrollsysteme mit präziser Temperaturhaltung für Kosmetikprodukterhaltung, Belüftung mit Geruchsfilterung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "reserved": {
+        "title": "Reserved Geschäft",
+        "description": "Polnische Marke Reserved Bekleidungsgeschäft der LPP Gruppe. Zu- und Abluftanlagen nach europäischen Standards, Klimatisierung für über 1.500 m² Verkaufsfläche installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "space-multimedia": {
+        "title": "Space Multimedia Geschäft",
+        "description": "Multi-Marken Elektronik- und Haushaltsgerätegeschäft. Klimakontrollsysteme mit Gerätüberhitzungsschutz, Auslage- und Demostromversorgung, moderne Beleuchtung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "cinemax-dostyk": {
+        "title": "Cinemax Dostyk Multiplex",
+        "description": "Cinemax 8-Saal Kinomultiplex im Dostyk Plaza Einkaufszentrum. Geräuschlose Belüftungs- und Klimatisierungssysteme für Kinosäle, Raumvorbereitung für akustische Behandlung, Brandschutzsysteme installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "marwin-shymkent": {
+        "title": "Marwin Geschäft",
+        "description": "Marwin Kinderwaren- und Spielzeughypermarkt im Shymkent Plaza Einkaufszentrum. Klimakontrollsysteme mit erhöhter Sicherheit für Kinderbereich, helle Verkaufsflächenbeleuchtung, Belüftung mit Luftreinigung installiert.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "newyorker-shymkent": {
+        "title": "NewYorker Geschäft",
+        "description": "Deutsche Marke NewYorker Jugendbekleidungsgeschäft. Belüftungs- und Klimatisierungssysteme nach Unternehmensstandards, energieeffiziente Verkaufsflächenbeleuchtung installiert.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "sulpak-shymkent": {
+        "title": "Sulpak Geschäft",
+        "description": "Sulpak Elektronik- und Haushaltsgerätehypermarkt mit über 3.000 m² Fläche. Klimakontrollsysteme für Technik-Demozonen, leistungsstarke Auslagestromversorgung, moderne Beleuchtung installiert.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "koton-shymkent": {
+        "title": "Koton Geschäft",
+        "description": "Türkische Bekleidungsmarke Koton Geschäft. Zu- und Abluftanlagen, Klimatisierung mit individueller Zonensteuerung, moderne LED-Beleuchtung installiert.",
+        "location": "Schymkent, Kasachstan"
+      },
+      "mavi-almaty": {
+        "title": "Mavi Geschäft",
+        "description": "Türkische Marke Mavi Jeans Denim-Geschäft. Klimakontrollsysteme für Textilprodukterhaltung, moderne Kollektionsakzentbeleuchtung, Umkleidekabinen-Belüftung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "chaplin-cinemas": {
+        "title": "Chaplin Cinemas",
+        "description": "Chaplin Cinemas Kinokette in Almaty. Geräuschlose Lüftungssysteme für Kinosäle mit standardisiertem Luftaustausch, Klimatisierung, Raumvorbereitung für akustische Behandlung installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "mega-silk-way": {
+        "title": "MEGA Silk Way Einkaufszentrum",
+        "description": "Das größte Einkaufs- und Unterhaltungszentrum in Zentralasien mit einer Gesamtfläche von 350.000 m², am linken Ufer von Astana gelegen. Komplette Ingenieurarbeiten: zentrale Klimatisierung für Einkaufsgalerien, Zu- und Abluftanlagen mit Wärmerückgewinnung, automatische Sprinkler-Brandbekämpfung, Kalt- und Warmwasserversorgungsnetze.",
+        "location": "Astana, Kasachstan"
+      },
+      "dostyk-plaza": {
+        "title": "Dostyk Plaza Einkaufszentrum",
+        "description": "Premium Einkaufs- und Unterhaltungszentrum an der Dostyk Allee mit 65.000 m² Fläche. Zentrale Klimaanlagen mit Kühlerausrüstung, Zu- und Abluftanlagen für Einkaufsgalerien, automatische Brandbekämpfung, Wasserversorgungs- und Abwassernetze für Mieter und Food-Court installiert.",
+        "location": "Almaty, Kasachstan"
+      },
+      "nef-uptown": {
+        "title": "NEF Uptown Wohnkomplex",
+        "description": "Premium Wohnkomplex des türkischen Entwicklers NEF in der oberen Stadt. Technische Systeme für Wohntürme werden installiert: individuelle Wohnungsheizung, Zu- und Abluftanlagen mit Wärmerückgewinnung, Kalt- und Warmwasserversorgungsnetze, Smart-Home-Systeme.",
+        "location": "Almaty, Kasachstan"
+      },
+      "turkestan-residential": {
+        "title": "Turkestan Wohnkomplex",
+        "description": "Mehrstöckiger Wohnkomplex in der Stadt Turkestan, im Rahmen des regionalen Entwicklungsprogramms gebaut. Technische Systeme werden installiert: Zentralheizung vom Wärmepunkt, interne Kalt- und Warmwasserversorgungsnetze, Abwasser, Tiefgaragenbelüftung.",
+        "location": "Turkestan, Kasachstan"
+      },
+      "hilton-garden-inn": {
+        "title": "Hilton Garden Inn Hotel",
+        "description": "Internationales Hilton-Kettenhotel mit 200 Zimmern im Zentrum von Almaty. Technische Systeme nach internationalen Markenstandards installiert: zentrale Klimatisierung mit individueller Steuerung für jedes Zimmer, Zu- und Abluftanlagen, automatische Brandbekämpfung, Warm- und Kaltwasserversorgungsnetze.",
+        "location": "Almaty, Kasachstan"
+      }
+    }
+  },
+  "certificates": {
+    "title": "Referenzen",
+    "subtitle": "Feedback und Empfehlungsschreiben von unseren Partnern",
+    "recommendation": "Empfehlungsschreiben",
+    "certificate": "Zertifikat"
+  },
+  "process": {
+    "title": "Arbeitsprozess",
+    "subtitle": "Transparenter Prozess von der Anfrage bis zur Übergabe",
+    "steps": {
+      "step1": {
+        "title": "Anfrage",
+        "description": "Kontaktieren Sie uns zur Projektbesprechung"
+      },
+      "step2": {
+        "title": "Analyse",
+        "description": "Wir prüfen die technischen Anforderungen"
+      },
+      "step3": {
+        "title": "Planung",
+        "description": "Wir entwickeln die Projektdokumentation"
+      },
+      "step4": {
+        "title": "Umsetzung",
+        "description": "Wir führen die Installationsarbeiten durch"
+      },
+      "step5": {
+        "title": "Übergabe",
+        "description": "Wir übergeben mit Dokumentation und Garantie"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Antworten auf häufige Fragen zur Partnerschaft",
+    "items": {
+      "faq1": {
+        "question": "In welchen Regionen arbeiten Sie?",
+        "answer": "Wir führen Projekte in ganz Kasachstan und den GUS-Staaten durch: Usbekistan, Tadschikistan, Kirgisistan."
+      },
+      "faq2": {
+        "question": "Mit welchen Objekten arbeiten Sie?",
+        "answer": "Wir spezialisieren uns auf Industrieanlagen, Flughäfen, Einkaufszentren und Wohnkomplexe."
+      },
+      "faq3": {
+        "question": "Welche Garantien bieten Sie?",
+        "answer": "Garantie auf alle Arbeiten gemäß Vertrag. Garantie- und Nachgarantieservice."
+      },
+      "faq4": {
+        "question": "Wie erfolgt die Zahlung?",
+        "answer": "Wir arbeiten vertraglich mit gestaffelten Zahlungen. Anzahlung, Zwischenzahlungen und Endabrechnung nach Fertigstellung."
+      }
+    }
+  },
+  "contacts": {
+    "title": "Kontakt",
+    "subtitle": "Lassen Sie uns Ihr Projekt besprechen",
+    "phone": {
+      "label": "Telefon"
+    },
+    "email": {
+      "label": "E-Mail"
+    },
+    "address": {
+      "label": "Adresse"
+    },
+    "schedule": {
+      "label": "Öffnungszeiten"
+    }
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contacts": "Kontakt",
+    "schedule": "Öffnungszeiten",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die angeforderte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie"
+  },
+  "common": {
+    "readMore": "Mehr lesen",
+    "close": "Schließen",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten"
+  },
+  "seo": {
+    "home": {
+      "title": "TIM STROY — Ingenieur- und Bauunternehmen | Kasachstan",
+      "description": "TIM STROY — Planung und Installation von technischen Systemen für Industrieanlagen, Flughäfen, Wohnkomplexe. Kasachstan und GUS."
+    },
+    "services": {
+      "title": "Dienstleistungen — TIM STROY",
+      "description": "Technische Systeme: Wasserversorgung, Kanalisation, Heizung, Lüftung, Brandschutz, Elektrik."
+    },
+    "projects": {
+      "title": "Projekte — TIM STROY",
+      "description": "Abgeschlossene Projekte von TIM STROY. Großobjekte in Kasachstan und GUS-Ländern."
+    },
+    "certificates": {
+      "title": "Referenzen — TIM STROY",
+      "description": "Feedback und Empfehlungsschreiben von TIM STROY-Partnern."
+    },
+    "contacts": {
+      "title": "Kontakt — TIM STROY",
+      "description": "Kontaktieren Sie TIM STROY, um Ihr Projekt zu besprechen."
+    }
+  }
+}
