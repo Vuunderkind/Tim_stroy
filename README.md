@@ -1,174 +1,110 @@
-# MKA STROY — Премиум сайт строительной компании
+<div align="center">
 
-Современный минималистичный сайт для строительной компании MKA STROY (ТОО, Алматы).
+# 🏗️ Tim Stroy
+### Construction Company Website · Personal Demo Project
 
-## Технологии
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-C0430B?style=for-the-badge)](https://vuunderkind.github.io/Tim_stroy/)
+[![Made by Vuunderkind](https://img.shields.io/badge/Made_by-Vuunderkind-424242?style=for-the-badge)](https://github.com/Vuunderkind)
+[![Next.js](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-- **Next.js 14** (App Router)
-- **TypeScript**
-- **TailwindCSS** — дизайн-система
-- **Framer Motion** — анимации
-- **Lucide React** — иконки
+---
 
-## Дизайн-система
+> **Personal demo project** — built entirely by me as a front-end practice in premium UI design.  
+> Fictional construction company. Not affiliated with any real business.
 
-### Цветовая палитра
-- Background: `#F1F1F1`
-- Text: `#424242`
-- Accent: `#C0430B`
-- Accent Hover: `#DD4D0D`
-- Accent Dark: `#903208`
+---
 
-### Особенности
-- Минималистичный премиум дизайн
-- Адаптивная верстка (mobile-first)
-- Плавные анимации и микровзаимодействия
-- Accessibility (a11y) совместимость
-- SEO оптимизация
-- JSON-LD schema для поисковых систем
+</div>
 
-## Структура проекта
+## ✦ About
+
+A modern, minimalist **premium construction company website** — built as a challenge to create a polished, production-ready front-end with zero backend dependencies and a full static export.
+
+Designed around a real construction brand aesthetic: confident, clean, and professional.
+
+---
+
+## ✦ What I built
+
+| Feature | Details |
+|---|---|
+| 🏠 **Hero Section** | Full-screen with animated entrance |
+| 🔨 **Services** | Drawer-style services panel with animations |
+| 📐 **Projects** | Gallery with modal detail view |
+| 🔄 **Process** | Step-by-step work process section |
+| 📜 **Certificates** | Credentials and licenses showcase |
+| ❓ **FAQ** | Accordion with smooth expand/collapse |
+| 📍 **Contacts** | Contact form + map integration |
+| 🌓 **Day / Night toggle** | Theme switching with smooth transitions |
+| 🌍 **Multilingual** | i18n support via next-intl |
+| 📱 **Fully responsive** | Mobile-first, all breakpoints |
+| ⚡ **Static export** | Deploys anywhere, no server needed |
+| 🔍 **SEO ready** | JSON-LD schema, meta tags, sitemap |
+
+---
+
+## ✦ Tech stack
 
 ```
-/
-├── app/                    # Next.js App Router
-│   ├── layout.tsx         # Основной layout
-│   ├── page.tsx           # Главная страница
-│   ├── services/          # Страница услуг
-│   ├── projects/          # Страница проектов
-│   ├── contacts/          # Страница контактов
-│   └── privacy/           # Политика конфиденциальности
-├── components/            # Переиспользуемые компоненты
-│   ├── Header.tsx
-│   ├── Footer.tsx
-│   ├── ScrollProgress.tsx
-│   └── JsonLd.tsx
-├── sections/              # Секции главной страницы
-│   ├── Hero.tsx
-│   ├── Services.tsx
-│   ├── Projects.tsx
-│   ├── Process.tsx
-│   ├── PriceCalculator.tsx
-│   ├── FAQ.tsx
-│   └── Contacts.tsx
-├── types/                 # TypeScript типы
-│   └── company.ts
-├── constants/             # Константы и данные
-│   └── company.ts         # Данные компании
-└── build/Debug/
-    └── mka_stroy_knowledge.txt  # Файл знаний компании
+Next.js 14       — App Router, static export
+TypeScript       — full type safety
+Tailwind CSS     — utility-first design system
+Framer Motion    — scroll animations, page transitions
+Lucide React     — icon library
+next-intl        — internationalization
 ```
 
-## Установка и запуск
+---
 
-### 1. Установка зависимостей
+## ✦ Design system
+
+| Token | Value |
+|---|---|
+| Background | `#F1F1F1` |
+| Text | `#424242` |
+| Accent | `#C0430B` |
+| Accent hover | `#DD4D0D` |
+| Accent dark | `#903208` |
+
+---
+
+## ✦ Run locally
 
 ```bash
+git clone https://github.com/Vuunderkind/Tim_stroy.git
+cd Tim_stroy
 npm install
-```
-
-### 2. Запуск dev-сервера
-
-```bash
 npm run dev
+# → http://localhost:3000
 ```
 
-Сайт будет доступен по адресу: [http://localhost:3000](http://localhost:3000)
-
-### 3. Сборка для продакшена
-
+**Static build:**
 ```bash
 npm run build
+# → /out folder ready to deploy anywhere
 ```
 
-### 4. Запуск production-сервера
+---
 
-```bash
-npm start
-```
+## ✦ Auto-deploy
 
-## Настройка данных компании
+Every push to `main` triggers a **GitHub Actions** workflow that:
+1. Installs dependencies
+2. Runs `next build` → generates `/out`
+3. Deploys to GitHub Pages automatically
 
-Все данные компании находятся в файле [constants/company.ts](constants/company.ts).
+Live link updates within ~2 minutes of any push.
 
-### TODO: Необходимо заполнить следующие данные
+---
 
-1. **Контакты** (строки 19-22 в [constants/company.ts](constants/company.ts:19-22)):
-   - ✅ Телефон
-   - ✅ WhatsApp
-   - ✅ Telegram
-   - ✅ Email
-   - ✅ Точный адрес офиса
+<div align="center">
 
-2. **Статистика** (строки 27-30 в [constants/company.ts](constants/company.ts:27-30)):
-   - Реальное количество лет опыта
-   - Количество реализованных проектов
-   - Количество лет гарантии
+**Built entirely by [Vuunderkind](https://github.com/Vuunderkind)**  
+*Design · Development · Animations · i18n — all mine*
 
-3. **Цены** (строки 33-113 в [constants/company.ts](constants/company.ts:33-113)):
-   - Реальные цены за м² для каждой услуги
-   - Базовые цены в калькуляторе
+---
 
-4. **Проекты** (строки 116-128 в [constants/company.ts](constants/company.ts:116-128)):
-   - Добавить реальные проекты из портфолио
-   - Заменить placeholder-данные
+*Demo project · Not for commercial use*
 
-5. **Гарантии** (строки 225-229 в [constants/company.ts](constants/company.ts:225-229)):
-   - Описание гарантийных обязательств
-   - Условия гарантии
-
-6. **Координаты** (строки 189-192 в [constants/company.ts](constants/company.ts:189-192)):
-   - Точные координаты офиса для карты
-
-## Функционал
-
-### ✅ Реализовано
-
-- Hero секция с анимациями
-- Каталог услуг (6 услуг из базы знаний)
-- Портфолио проектов (с placeholder для добавления реальных)
-- Процесс работы (7 шагов)
-- Калькулятор стоимости (без backend)
-- FAQ (8 вопросов)
-- Контакты с картой
-- Адаптивное меню
-- Прогресс-бар скролла
-- SEO оптимизация
-- JSON-LD schema
-- Политика конфиденциальности
-
-### Калькулятор стоимости
-
-Калькулятор работает без backend. Формулы настраиваются в [constants/company.ts](constants/company.ts):
-- Базовая цена за м² для каждого типа работ
-- Дополнительные опции (фиксированная цена или множитель)
-- Вилка цен ±10% от рассчитанной стоимости
-
-Для изменения формул редактируйте объект `pricing` в файле данных.
-
-## Производительность
-
-- Lazy-loading изображений через `next/image`
-- Оптимизированные анимации (respect `prefers-reduced-motion`)
-- Минимальный размер бандла
-- Tree-shaking неиспользуемых иконок
-- CSS variables для быстрого рендеринга
-
-## Доступность (a11y)
-
-- Семантическая разметка HTML
-- ARIA атрибуты
-- Контрастные цвета (WCAG AA)
-- Focus-стили для клавиатурной навигации
-- Альтернативный текст для изображений
-
-## Браузерная поддержка
-
-- Chrome (последние 2 версии)
-- Firefox (последние 2 версии)
-- Safari (последние 2 версии)
-- Edge (последние 2 версии)
-
-## Лицензия
-
-© 2026 TIM STROY. Все права защищены.
+</div>
