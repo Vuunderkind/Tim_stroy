@@ -1,110 +1,97 @@
 <div align="center">
 
-# 🏗️ Tim Stroy
-### Construction Company Website · Personal Demo Project
+# 🏗️ TIM STROY
+### Premium Construction Company Website
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-C0430B?style=for-the-badge)](https://vuunderkind.github.io/Tim_stroy/)
-[![Made by Vuunderkind](https://img.shields.io/badge/Made_by-Vuunderkind-424242?style=for-the-badge)](https://github.com/Vuunderkind)
-[![Next.js](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Open_Site-C0430B?style=for-the-badge)](https://vuunderkind.github.io/Tim_stroy/)
+[![Made by Vuunderkind](https://img.shields.io/badge/Built_by-Vuunderkind-424242?style=for-the-badge)](https://github.com/Vuunderkind)
+[![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
----
-
-> **Personal demo project** — built entirely by me as a front-end practice in premium UI design.  
-> Fictional construction company. Not affiliated with any real business.
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
 </div>
 
-## ✦ About
+## О проекте
 
-A modern, minimalist **premium construction company website** — built as a challenge to create a polished, production-ready front-end with zero backend dependencies and a full static export.
+Полноценный корпоративный сайт строительной компании — разработан с нуля, от дизайн-системы до деплоя. Весь проект сделан мной одним: архитектура, UI/UX, вёрстка, анимации, мультиязычность.
 
-Designed around a real construction brand aesthetic: confident, clean, and professional.
+Не шаблон. Не конструктор. Чистый код с нуля.
 
 ---
 
-## ✦ What I built
+## Функциональность
 
-| Feature | Details |
+| Раздел | Описание |
 |---|---|
-| 🏠 **Hero Section** | Full-screen with animated entrance |
-| 🔨 **Services** | Drawer-style services panel with animations |
-| 📐 **Projects** | Gallery with modal detail view |
-| 🔄 **Process** | Step-by-step work process section |
-| 📜 **Certificates** | Credentials and licenses showcase |
-| ❓ **FAQ** | Accordion with smooth expand/collapse |
-| 📍 **Contacts** | Contact form + map integration |
-| 🌓 **Day / Night toggle** | Theme switching with smooth transitions |
-| 🌍 **Multilingual** | i18n support via next-intl |
-| 📱 **Fully responsive** | Mobile-first, all breakpoints |
-| ⚡ **Static export** | Deploys anywhere, no server needed |
-| 🔍 **SEO ready** | JSON-LD schema, meta tags, sitemap |
+| **Главная** | Hero-секция с анимированным входом, счётчики, преимущества |
+| **Услуги** | Drawer-панель с подробным описанием каждой услуги |
+| **Проекты** | Галерея выполненных объектов с модальным окном деталей |
+| **О компании** | История, команда, цифры и достижения |
+| **Процесс работы** | Пошаговое описание этапов сотрудничества |
+| **Сертификаты** | Лицензии, допуски, документы |
+| **FAQ** | Аккордеон с часто задаваемыми вопросами |
+| **Контакты** | Форма обратной связи, адрес, карта |
 
 ---
 
-## ✦ Tech stack
+## Технологии
 
 ```
-Next.js 14       — App Router, static export
-TypeScript       — full type safety
-Tailwind CSS     — utility-first design system
-Framer Motion    — scroll animations, page transitions
-Lucide React     — icon library
-next-intl        — internationalization
+Next.js 14        App Router, статический экспорт
+TypeScript        Полная типизация
+Tailwind CSS      Дизайн-система, utility-first
+Framer Motion     Анимации, переходы, scroll-reveal
+Lucide React      Иконки
+next-intl         Мультиязычность
 ```
 
 ---
 
-## ✦ Design system
+## Мультиязычность — 6 языков
 
-| Token | Value |
-|---|---|
-| Background | `#F1F1F1` |
-| Text | `#424242` |
-| Accent | `#C0430B` |
-| Accent hover | `#DD4D0D` |
-| Accent dark | `#903208` |
+🇷🇺 Русский · 🇬🇧 English · 🇰🇿 Қазақша · 🇩🇪 Deutsch · 🇰🇬 Кыргызча · 🇹🇷 Türkçe
+
+Полный перевод интерфейса, SEO-метатеги и Open Graph для каждого языка.
 
 ---
 
-## ✦ Run locally
+## Дизайн-система
+
+| Токен | Значение | |
+|---|---|---|
+| Background | `#F1F1F1` | Светлый нейтральный фон |
+| Text | `#424242` | Основной текст |
+| Accent | `#C0430B` | Фирменный оранжево-красный |
+| Accent hover | `#DD4D0D` | Состояние наведения |
+| Accent dark | `#903208` | Тёмный акцент |
+
+---
+
+## Запуск локально
 
 ```bash
 git clone https://github.com/Vuunderkind/Tim_stroy.git
 cd Tim_stroy
 npm install
 npm run dev
-# → http://localhost:3000
-```
-
-**Static build:**
-```bash
-npm run build
-# → /out folder ready to deploy anywhere
+# http://localhost:3000
 ```
 
 ---
 
-## ✦ Auto-deploy
+## Автодеплой
 
-Every push to `main` triggers a **GitHub Actions** workflow that:
-1. Installs dependencies
-2. Runs `next build` → generates `/out`
-3. Deploys to GitHub Pages automatically
-
-Live link updates within ~2 minutes of any push.
+Каждый `git push` в `main` запускает GitHub Actions:  
+`npm install` → `next build` → статические файлы → GitHub Pages  
+Обновление на живом сайте занимает ~2 минуты.
 
 ---
 
 <div align="center">
 
-**Built entirely by [Vuunderkind](https://github.com/Vuunderkind)**  
-*Design · Development · Animations · i18n — all mine*
-
----
-
-*Demo project · Not for commercial use*
+**Разработал [Vuunderkind](https://github.com/Vuunderkind)**  
+*Дизайн · Архитектура · Вёрстка · Анимации · i18n — всё сделано мной*
 
 </div>
