@@ -1,19 +1,18 @@
 'use client'
 
 import { useEffect } from 'react'
-import { useRouter } from 'next/navigation'
 import { i18n } from '@/i18n.config'
 
 export default function RootPage() {
-  const router = useRouter()
-
   useEffect(() => {
-    router.replace(`/${i18n.defaultLocale}`)
-  }, [router])
+    // Static export on GitHub Pages: router.replace doesn't resolve basePath correctly.
+    // Use direct window.location so the browser does a real navigation.
+    window.location.replace('/Tim_stroy/' + i18n.defaultLocale + '/')
+  }, [])
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
-      <div className="text-white text-lg">Redirecting...</div>
+      <div className="text-white text-lg" />
     </div>
   )
 }
